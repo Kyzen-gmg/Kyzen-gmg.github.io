@@ -13,9 +13,9 @@ img_path: /img/     #set this so no need to use absolute paths for images
 # ![img-description](/path/to/image)
 # _Image Caption_
 # ![Desktop View](/assets/img/sample/mockup.png){: w="700" h="400" }    #size
-# ![Desktop View](/assets/img/sample/mockup.png){: .normal } # .left or .right
+# ![Desktop View](/assets/img/sample/mockup.png){: .normal } #.left or .right
 ---
-# BBQ / Steak
+## BBQ / Steak
 - **Blacks BBQ**  
 Menu: blacksbbq.com
 Phone: (512) 524-0801  
@@ -34,7 +34,7 @@ Phone: (512) 474-6300
 Address: 114 W 7th St, Austin, TX 78701  
 Comment: Get the pork chop!!
 
-# Breakfast
+## Breakfast
 - **Snooze Eatery (2 Locations)**  
 Menu: snoozeeatery.com  
 Phone: (512) 886-1550  
@@ -43,13 +43,13 @@ Phone: (512) 410-0670
 Address: 3800 N Lamar Blvd Suite 120, Austin, TX 78756  
 Comment: "Fusiony"
 
-# Fusion-type Foods
+## Fusion-type Foods
 - **1618 Asian Fusion**  
 Menu: 1618asianfusion.com  
 Address: 1618 E Riverside Dr, Austin, TX 78741  
 Comment: The pho tastes like Filipino Batchoy
 
-# Korean
+## Korean
 - **Chosun Galbi**  
 Menu: chosungalbiaustin.com
 Phone: (512) 419-1400  
@@ -62,7 +62,7 @@ Phone: (512) 323-0635
 Address: 6808 N Lamar Blvd, Austin, TX 78752  
 Comment: Favorite "Grandma/homestyle" Korean cooking, get the squid.
 
-# Vietnamese
+## Vietnamese
 - **Sip Pho**  
 Menu: https://www.sippho.com/  
 Phone: (512) 551-9778  
@@ -75,14 +75,14 @@ Phone: (512) 837-9100
 Address: 10901 N Lamar Blvd #C312, Austin, TX 78753  
 Comment: Get banh mi here, then get boba from Bambu which is right across from it.
 
-# Thai
+## Thai
 - **Sap's Fine Thai Cuisine (Burnet Location)**  
 Website: http://sapsver.com/  
 Phone: (512) 419-7244  
 Address: 5800 Burnet Rd, Austin, TX 78756  
 Comment: They have "real" asian spice levels and not as watered down/westernized.
 
-# Chinese
+## Chinese
 - **Lin Asian Bar + Dim Sum**  
 Website: linasianbar.com  
 Phone: (512) 474-5107  
@@ -94,7 +94,7 @@ Menu: wuchowaustin.com
 Phone: (512) 476-2469  
 Address: IBC Bank Plaza, 500 W 5th St #168, Austin, TX 78701
 
-# Japanese
+## Japanese
 - **Uchi (Sushi)**  
 Website: uchiaustin.com  
 Phone: (512) 916-4808  
@@ -119,7 +119,7 @@ Phone: (512) 520-9046
 Address: 8578 Research Blvd, Austin, TX 78758  
 Comment: Japanese rice balls, onigiri, desserts
 
-# Mexican
+## Mexican
 - **Suerte**  
 Menu: suerteatx.com  
 Phone: (512) 953-0092  
@@ -131,7 +131,7 @@ Website: https://www.chuys.com/
 Phone: (512) 474-4452  
 Address: 1728 Barton Springs Rd, Austin, TX 78704
 
-# Pizza
+## Pizza
 - **Via 313 Pizza** (2 Locations)  
 Menu: via313.com  
 Phone: (512) 580-0999    
@@ -140,7 +140,7 @@ Phone: (512) 358-6193
 Address: 3016 Guadalupe St, Austin, TX 78705  
 Comment: Must try **Caddilac** and **Detroiter** Pizzas!!
 
-# Boba  
+## Boba  
 - **Tea Cup Boba House**  
 Phone: (512) 565-8456  
 Address: 1725 E Riverside Dr unit b, Austin, TX 78741  
