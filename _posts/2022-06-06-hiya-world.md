@@ -1,7 +1,7 @@
 ---
 title: Hiya World!
 date: 2022-06-06
-categories: [TOP_CATEGORIE, SUB_CATEGORIE]
+categories: [Foodie, Austin]
 tags: [foodie]     # TAG names should always be lowercase
 
 # Math: uncomment line below as needed
