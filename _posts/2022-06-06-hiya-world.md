@@ -2,7 +2,7 @@
 title: Hiya World!
 date: 2022-06-06
 categories: [Foodie, Austin]
-tags: [foodie]     # TAG names should always be lowercase
+tags: [foodie, austin]     # TAG names should always be lowercase
 
 # Math: uncomment line below as needed
 # math: true       
