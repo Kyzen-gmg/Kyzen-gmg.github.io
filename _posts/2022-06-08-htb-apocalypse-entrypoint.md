@@ -1,7 +1,7 @@
 ---
 title: Hack The Box Cyber Apocalypse CTF 2022!
 date: 2022-06-08
-categories: [CTFs, HTB, HTB Apocalypse 2022, test]
+categories: [CTFs, HTB]
 tags: [htb, pwn, stack, format string]     # TAG names should always be lowercase
 toc: true
 
@@ -18,7 +18,9 @@ toc: true
 ---
 ![htb](/img/htb/cyber_apocalypse_2022.jpg)
 
-Space Pirate: Entrypoint
+## Pwn
+
+### Space Pirate: Entrypoint
 - Format String attack on x64 ELF file to ovewrite the stack
 
 ```nasm
