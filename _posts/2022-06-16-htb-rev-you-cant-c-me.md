@@ -21,7 +21,7 @@ Raw notes
 # You Cant C Me
 
 ## Key
-```
+```bash
 └─# ./auth
 Welcome!
 wh00ps!_y0u_d1d_c_m3     
@@ -29,7 +29,7 @@ HTB{wh00ps!_y0u_d1d_c_m3}
 ```
 
 # ltrace
-```
+```bash
 //stripped
 └─# file auth               
 auth: ELF 64-bit LSB executable, x86-64, version 1 (SYSV), dynamically linked, interpreter /lib64/ld-linux-x86-64.so.2, for GNU/Linux 3.2.0, stripped
@@ -55,7 +55,7 @@ printf("I said, you can't c me!\n"I said, you can't c me!
 ![](img/htb/ghidra02.png)
 
 //line 29 is tough to decipher; string found in local_48
-```
+```bash
 └─# echo "m^&&fiUo&kUZ'ZUYUc)" | ascii2dec.sh 
 109 94 38 38 102 105 85 111 38 107 85 90 39 90 85 89 85 99 41  
 ```
