@@ -1,7 +1,7 @@
 ---
 title: Hack The Box Cyber Apocalypse CTF 2022!
 date: 2022-06-08
-categories: [CTFs, HTB]
+categories: [CTFs, HTB Cyber Apocalyps 2022]
 tags: [htb, pwn, stack, format string]     # TAG names should always be lowercase
 toc: true
 
