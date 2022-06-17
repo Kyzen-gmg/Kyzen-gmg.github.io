@@ -1,5 +1,5 @@
 ---
-title: Hack The Box Challenges - You Can't C Me!
+title: HTB Challenge - You Can't C Me!
 date: 2022-06-16
 categories: [Reverse Engineering]
 tags: [htb, rev]     # TAG names should always be lowercase
