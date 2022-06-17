@@ -16,7 +16,7 @@ toc: true
 # ![Desktop View](/assets/img/sample/mockup.png){: w="700" h="400" }    #size
 # ![Desktop View](/assets/img/sample/mockup.png){: .normal } #.left or .right
 ---
-![htb](/img/htb/cyber_apocalypse_2022.jpg)
+![htb](img/htb/cyber_apocalypse_2022.jpg)
 
 ## Pwn
 
